@@ -1,1 +1,1 @@
-console.log("This is product model");
+console.log("This is product model, fixed");
