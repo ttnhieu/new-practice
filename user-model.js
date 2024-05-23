@@ -1,1 +1,1 @@
-console.log('This is user model');
+console.log('This is user model, fixed');
